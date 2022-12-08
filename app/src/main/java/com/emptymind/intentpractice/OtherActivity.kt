@@ -12,7 +12,7 @@ class OtherActivity : AppCompatActivity() {
         returnToMainBtn.setOnClickListener {
 
             finish()
-
         }
     }
+
 }
